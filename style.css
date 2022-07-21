@@ -5,7 +5,18 @@ body{
 }
 h1{
     text-align: center;
+    
+}
+h1:hover{
+color: aliceblue;
+background-color: black;
 }
 p{
     padding: 15px;
+
+}
+a{
+    text-decoration: none;
+    color: wheat;
+
 }
